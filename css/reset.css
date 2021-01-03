@@ -3,12 +3,19 @@
     padding: 0;
 }
 
+@font-face {
+    /* 名字 */
+    font-family: "Noto Sans CJK SC DemiLight", "Noto Sans CJK TC DemiLight", "Noto Sans CJK HK DemiLight", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight", ;
+    /* 路径 */
+    src: url("/font/NotoSansCJK-DemiLight.ttc");
+}
+
 body {
     color: #333;
     font-size: 16px;
     font-weight: normal;
     font-style: normal;
-    font-family: "微软雅黑";
+    font-family: "Noto Sans CJK SC DemiLight", "Noto Sans CJK TC DemiLight", "Noto Sans CJK HK DemiLight", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight", ;
 }
 
 a {
