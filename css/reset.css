@@ -7,7 +7,7 @@
     /* 名字 */
     font-family: "Noto Sans CJK SC DemiLight", "Noto Sans CJK TC DemiLight", "Noto Sans CJK HK DemiLight", "Noto Sans CJK JP DemiLight", "Noto Sans CJK KR DemiLight", ;
     /* 路径 */
-    src: url("/font/NotoSansCJK-DemiLight.ttc");
+    src: url("/fonts/NotoSansCJK-DemiLight.ttc");
 }
 
 body {
